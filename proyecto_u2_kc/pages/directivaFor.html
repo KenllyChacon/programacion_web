@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport"
+        content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+  <title></title>
+  <meta name="description" content="***********************">
+  <meta name="author" content="************************">
+  <meta name="keywords" content="**************************">
+  <meta name="google-site-verification" content="">
+  <meta name="googlebot" content="">
+
+  <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+</head>
+
+
+<body>
+<header>
+</header>
+
+<nav>
+</nav>
+
+<section>
+  <div id="myApp2">
+<!--    {{arreglo}}-->
+    <!--<ul>
+&lt;!&ndash;      No ocupar esto&ndash;&gt;
+      <li>{{arreglo[0].texto}}</li>
+      <li>{{arreglo[1].texto}}</li>
+      <li>{{arreglo[2].texto}}</li>
+      <li>{{arreglo[3].texto}}</li>
+      <li>{{arreglo[4].texto}}</li>
+      <li>{{arreglo[5].autor}}</li>
+      <li>{{arreglo[6]}}</li>
+    </ul>-->
+
+    <n1>Frases:</n1>
+    <ul>
+      <li v-for="({texto,autor}, index) in arreglo">
+        <span>{{index+1}} - {{texto}}</span>
+        <blockquote>{{autor}}</blockquote>
+<!--        n1,n2-->
+<!--        {{'Frase: ' + texto + ' Autor:' +autor}}-->
+      </li>
+    </ul>
+  </div>
+</section>
+
+<footer>
+  Derechos Reservados 2022-2023
+</footer>
+<script src="/js/configuracion2.js"></script>
+</body>
+
+</html>

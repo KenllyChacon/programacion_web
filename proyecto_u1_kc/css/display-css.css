@@ -1,0 +1,13 @@
+#ele2{
+  float: inline-end;
+}
+
+#ele3{
+  /*por defecto es el block, none: desaparece*/
+  display: none;
+}
+
+.formulario{
+  /*grid: uno debajo del otro*/
+  display: grid;
+}

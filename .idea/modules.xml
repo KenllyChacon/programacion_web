@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/programacionWeb.iml" filepath="$PROJECT_DIR$/programacionWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proyecto_u1_kc.iml" filepath="$PROJECT_DIR$/proyecto_u1_kc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proyecto_u2_kc.iml" filepath="$PROJECT_DIR$/proyecto_u2_kc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proyecto_u2_pw_kc.iml" filepath="$PROJECT_DIR$/proyecto_u2_pw_kc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proyectos_u2_pw_kc.iml" filepath="$PROJECT_DIR$/proyectos_u2_pw_kc.iml" />
+    </modules>
+  </component>
+</project>

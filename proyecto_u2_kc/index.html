@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport"
+        content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+  <title>************************</title>
+  <meta name="description" content="***********************">
+  <meta name="author" content="************************">
+  <meta name="keywords" content="**************************">
+  <meta name="google-site-verification" content="">
+  <meta name="googlebot" content="">
+  <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+
+</head>
+
+
+<body>
+<header>
+</header>
+
+<nav>
+</nav>
+
+<section>
+  <h1>INICIO mi primer proyecto en vue </h1>
+  <p>{{1 + 1}}</p>
+  <p>{{true}}</p>
+  <h6>{{mensaje}}</h6>
+  <p>{{!true? 'Activo':'Inactivo'}}</p>
+  <div id="myApp">
+    <p>{{1 + 1}}</p>
+    <p>{{true}}</p>
+    <p>{{!true? 'Activo':'Inactivo'}}</p>
+    <h6>{{mensaje}}</h6>
+    <label for="">{{nombre}}</label>
+    <label for="">{{'' + apellido}}</label>
+<!--    directivas de vue empieza con v-->
+    <button v-on:click="cambiarNombre">Cambiar nombre</button>
+    <button v-on:click="cambiarApellido">Cambiar Apellido</button>
+  </div>
+  <h1>Fin</h1>
+</section>
+
+<footer>
+  Derechos Reservados 2022-2023
+</footer>
+<script src="/js/configuracion.js"></script>
+</body>
+
+</html>

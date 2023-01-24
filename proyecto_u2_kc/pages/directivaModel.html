@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport"
+        content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+  <title></title>
+  <meta name="description" content="***********************">
+  <meta name="author" content="************************">
+  <meta name="keywords" content="**************************">
+  <meta name="google-site-verification" content="">
+  <meta name="googlebot" content="">
+
+  <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+</head>
+
+
+<body>
+<header>
+</header>
+
+<nav>
+</nav>
+
+<section>
+  <div id="myApp2">
+    <label for="">Frase nueva: {{fraseNueva}}</label>
+    <br>
+    <input type="text" v-model="fraseNueva" v-on:keypress.enter="agregarFraseModificador">
+    <hr>
+    <h1>Frases:</h1>
+    <ul>
+      <li v-for="({texto,autor}, index) in arreglo">
+        <span>Frase: {{index + 1}} - {{texto}}</span>
+<!--        <blockquote v-if="autor !== undefined">Autor: {{autor}}</blockquote>-->
+        <blockquote v-show="autor !== undefined">Autor: {{autor}}</blockquote>
+      </li>
+    </ul>
+  </div>
+</section>
+
+<footer>
+  Derechos Reservados 2022-2023
+</footer>
+<script src="/js/configuracion2.js"></script>
+</body>
+
+</html>

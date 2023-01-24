@@ -1,0 +1,54 @@
+/*elemento*/
+h1,h2,h3 {
+  color: blue;
+  background-color: green;
+}
+
+/*identificador*/
+#id_titulo {
+  color: yellow;
+  background-color: brown;
+}
+
+/*clase*/
+.clase_titulos{
+  color: crimson;
+  background-color: black;
+}
+
+/*atributo*/
+/*img[src*="jpg"]{
+  width: 1000px;
+  height: 100px;
+}*/
+
+img[src*="dofus"]{
+  width: 500px;
+  height: 500px;
+}
+
+/*seudo-clase o evento*/
+label:hover{
+  color:green;
+}
+
+label:active{
+  color:#00e1ff;
+}
+
+/**{
+  background-color: black;
+}*/
+
+/*p{
+  color: white;
+}*/
+
+
+
+
+
+
+
+
+
