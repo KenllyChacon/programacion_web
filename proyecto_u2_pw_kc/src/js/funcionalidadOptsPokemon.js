@@ -1,3 +1,4 @@
+/*
 const calcularPromedio = (a,b)=>{
 
 }
@@ -16,12 +17,12 @@ const consumirApi = (idPokemon) =>{
 
 //validar //en caso de no existir?
 
-/*const crear arreglo pokemon(){ //poner para q no se repita
+/!*const crear arreglo pokemon(){ //poner para q no se repita
     const arreglo[]
     arreglo
         areglo[0] = obtenealeatorio(600);
         [1]
         [2]
         [3]
-    return arreglo;*/
-}
+    return arreglo;*!/
+}*/
