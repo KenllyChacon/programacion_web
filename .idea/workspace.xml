@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b1c07758-62ed-45fd-bbdc-dc73040e7103" name="Changes" comment="taller 21">
+    <list default="true" id="b1c07758-62ed-45fd-bbdc-dc73040e7103" name="Changes" comment="taller 23">
+      <change afterPath="$PROJECT_DIR$/proyecto_u2_pw_kc/src/js/obtenerPokemons.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proyecto_u2_pw_kc/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/proyecto_u2_pw_kc/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proyecto_u2_pw_kc/src/js/funcionalidadOptsPokemon.js" beforeDir="false" afterPath="$PROJECT_DIR$/proyecto_u2_pw_kc/src/js/funcionalidadOptsPokemon.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyecto_u2_pw_kc/src/components/PokemonOpts.vue" beforeDir="false" afterPath="$PROJECT_DIR$/proyecto_u2_pw_kc/src/components/PokemonOpts.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyecto_u2_pw_kc/src/js/funcionalidadOptsPokemon.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyecto_u2_pw_kc/src/pages/PokemonPage.vue" beforeDir="false" afterPath="$PROJECT_DIR$/proyecto_u2_pw_kc/src/pages/PokemonPage.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +29,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="taller23" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -135,7 +137,8 @@
       <workItem from="1674169575983" duration="5815000" />
       <workItem from="1674310000655" duration="175000" />
       <workItem from="1674687903321" duration="2295000" />
-      <workItem from="1674774276102" duration="399000" />
+      <workItem from="1674774276102" duration="501000" />
+      <workItem from="1674774811040" duration="5111000" />
     </task>
     <task id="LOCAL-00001" summary="taller 11">
       <created>1671065285557</created>
@@ -165,7 +168,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674175388932</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="taller 23">
+      <created>1674774738587</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1674774738587</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -193,7 +203,8 @@
     <MESSAGE value="taller 13" />
     <MESSAGE value="taller 20" />
     <MESSAGE value="taller 21" />
-    <option name="LAST_COMMIT_MESSAGE" value="taller 21" />
+    <MESSAGE value="taller 23" />
+    <option name="LAST_COMMIT_MESSAGE" value="taller 23" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
