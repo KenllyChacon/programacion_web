@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b1c07758-62ed-45fd-bbdc-dc73040e7103" name="Changes" comment="taller 23">
-      <change afterPath="$PROJECT_DIR$/proyecto_u2_pw_kc/src/js/obtenerPokemons.js" afterDir="false" />
+    <list default="true" id="b1c07758-62ed-45fd-bbdc-dc73040e7103" name="Changes" comment="taller 23 Fin">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/proyecto_u2_pw_kc/src/components/PokemonOpts.vue" beforeDir="false" afterPath="$PROJECT_DIR$/proyecto_u2_pw_kc/src/components/PokemonOpts.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proyecto_u2_pw_kc/src/js/funcionalidadOptsPokemon.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/proyecto_u2_pw_kc/src/pages/PokemonPage.vue" beforeDir="false" afterPath="$PROJECT_DIR$/proyecto_u2_pw_kc/src/pages/PokemonPage.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,7 +67,7 @@
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -86,7 +84,7 @@
       <recent name="D:\Intel\Kenlly\2" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.Debug Application">
+  <component name="RunManager" selected="npm.serve">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:5173">
       <method v="2" />
     </configuration>
@@ -138,7 +136,10 @@
       <workItem from="1674310000655" duration="175000" />
       <workItem from="1674687903321" duration="2295000" />
       <workItem from="1674774276102" duration="501000" />
-      <workItem from="1674774811040" duration="5111000" />
+      <workItem from="1674774811040" duration="5334000" />
+      <workItem from="1674780305706" duration="31000" />
+      <workItem from="1674914681157" duration="214000" />
+      <workItem from="1674914981293" duration="4345000" />
     </task>
     <task id="LOCAL-00001" summary="taller 11">
       <created>1671065285557</created>
@@ -175,7 +176,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674774738587</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="taller 23 Fin">
+      <created>1674780029250</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1674780029250</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -204,7 +212,8 @@
     <MESSAGE value="taller 20" />
     <MESSAGE value="taller 21" />
     <MESSAGE value="taller 23" />
-    <option name="LAST_COMMIT_MESSAGE" value="taller 23" />
+    <MESSAGE value="taller 23 Fin" />
+    <option name="LAST_COMMIT_MESSAGE" value="taller 23 Fin" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
